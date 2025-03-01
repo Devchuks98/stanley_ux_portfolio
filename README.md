@@ -1,4 +1,4 @@
-# Ata Berkay Karakus Portfolio Website 🌐
+<!-- # Ata Berkay Karakus Portfolio Website 🌐
 
 Welcome to my personal portfolio website repository! This site is built to showcase my projects, skills, and professional background.
 
@@ -32,4 +32,4 @@ For inquiries or collaboration opportunities, reach out via:
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. -->
